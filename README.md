@@ -71,14 +71,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drianediojanperez&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DrianeDiojanPerez/DrianeDiojanPerez/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=drianediojanperez&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
