@@ -66,6 +66,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drianediojanperez&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drianediojanperez&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drianediojanperez&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ## 🐍 Contribution Snake
 
