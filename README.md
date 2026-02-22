@@ -32,7 +32,7 @@ I'm a mix of **self-taught and formally trained**, which means I've learned to p
 - 🎯 What drives me: **performance, beautiful minimal design, great developer tooling, and solving real problems from scratch**
 - 🌱 Currently exploring **Rust deeply**, **cloud-native development**, and **DevOps** — Docker, Jenkins & Grafana
 - 🤝 Open to collaborating on interesting **open source projects**
-- 📫 Reach me on **[Twitter / X](https://twitter.com/drianeperez)**
+- 📫 Reach me on **[Twitter / X](https://twitter.com/drianeperez)**, **[WhatsApp](https://wa.me/5016727351)**, or **[drianeperez12@gmail.com](mailto:drianeperez12@gmail.com)**
 
 ## 🛠️ Languages & Tools
 
