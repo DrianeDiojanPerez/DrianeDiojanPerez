@@ -11,8 +11,11 @@
 
 <p align="center">
   <a href="https://twitter.com/drianeperez"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/driane-perez-abb156172"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/DrianeDiojanPerez"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://facebook.com/driane.diojan.perez"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/drianeperez"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://ddperez.com"><img src="https://img.shields.io/badge/Website-ddperez.com-6C63FF?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=drianediojanperez&label=Views&color=6C63FF&style=flat-square"/>
 </p>
 
