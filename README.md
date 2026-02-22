@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Driane Diojan Perez 👋</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Belize+🇧🇿;Building+clean+%26+modern+web+apps;Passionate+about+UI+%2F+UX;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Belize;Building+clean+%26+modern+web+apps;Passionate+about+UI+%2F+UX;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
