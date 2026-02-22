@@ -21,17 +21,18 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌍 Based in **Sarteneja, Corozal, Belize**
-- 💻 **Software Engineer** who loves building clean, responsive UIs
-- 🚀 I work with **React, TypeScript, Tailwind CSS**, and **Go**
-- 🤝 Open to collaborating on interesting open source projects
+I'm a **fullstack software engineer** in my early 20s from **Belize 🇧🇿**, working full-time and building things I care about. I got into coding because of a game or app that made me think *"how does this actually work?"* — and that curiosity has never stopped.
 
-## 🔭 Currently
+I'm a mix of **self-taught and formally trained**, which means I've learned to pick things up fast and figure stuff out on my own, but also care about doing things properly. I love working across the whole stack — from polished, minimal UIs to performant backend APIs and everything in between.
 
-- 🌱 Learning **Rust** and **cloud-native development**
-- 🔨 Building and shipping projects at work with **React + Go**
-- 📖 Exploring **DevOps** tools like Docker, Jenkins & Grafana
-- 🎯 Goal: always picking up something new and leveling up
+- 🌍 Based in **Belize City, Belize**
+- 💼 Currently **employed full-time** as a software engineer
+- ⚡ I build with **React, React Native, TypeScript, Tailwind CSS, Go** — and falling deeper in love with **Rust 🦀** every day
+- 🖥️ Passionate about **TUI apps, CLI tools, desktop apps, web & mobile** — I enjoy the full spectrum of what you can build with code
+- 🎯 What drives me: **performance, beautiful minimal design, great developer tooling, and solving real problems from scratch**
+- 🌱 Currently exploring **Rust deeply**, **cloud-native development**, and **DevOps** — Docker, Jenkins & Grafana
+- 🤝 Open to collaborating on interesting **open source projects**
+- 📫 Reach me on **[Twitter / X](https://twitter.com/drianeperez)**
 
 ## 🛠️ Languages & Tools
 
