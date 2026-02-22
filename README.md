@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+from+Belize;Building+clean+%26+modern+web+apps;Passionate+about+UI+%2F+UX;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Belize;Building+clean+%26+modern+web+apps;Passionate+about+UI+%2F+UX;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,18 +21,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌍 Based in **Belize City, Belize**
-- 💻 Passionate **Frontend Developer** who loves building clean, responsive UIs
-- 🚀 I enjoy working with **React, TypeScript, Tailwind CSS**, and **Go**
+- 🌍 Based in **Sarteneja, Corozal, Belize**
+- 💻 **Software Engineer** who loves building clean, responsive UIs
+- 🚀 I work with **React, TypeScript, Tailwind CSS**, and **Go**
 - 🤝 Open to collaborating on interesting open source projects
-- 📫 Reach me at **[Twitter / X](https://twitter.com/drianeperez)**
-
 
 ## 🔭 Currently
 
 - 🌱 Learning **Rust** and **cloud-native development**
-- 🔨 Working on personal projects with **React + Go**
+- 🔨 Building and shipping projects at work with **React + Go**
 - 📖 Exploring **DevOps** tools like Docker, Jenkins & Grafana
+- 🎯 Goal: always picking up something new and leveling up
 
 ## 🛠️ Languages & Tools
 
