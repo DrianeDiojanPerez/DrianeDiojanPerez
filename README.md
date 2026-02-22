@@ -46,11 +46,21 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap&theme=light&perline=8" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,go,rust,php,laravel,bash,docker,nginx&theme=light&perline=8" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,cassandra,sqlite,git,linux,grafana&theme=light&perline=8" />
-</p>
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap&perline=8" />
+
+**Backend & DevOps**
+
+<img src="https://skillicons.dev/icons?i=nodejs,go,rust,php,laravel,docker,nginx,bash&perline=8" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite,git,linux,grafana,jenkins&perline=8" />
+
+</div>
 
 ---
 
