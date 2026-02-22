@@ -9,6 +9,12 @@
   <img src="https://raw.githubusercontent.com/DrianeDiojanPerez/DrianeDiojanPerez/refs/heads/main/dancing-gopher.gif" alt="dancing gopher" width="200"/>
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/drianeperez"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/DrianeDiojanPerez"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=drianediojanperez&label=Views&color=6C63FF&style=flat-square"/>
+</p>
 
 ## 🙋‍♂️ About Me
 
@@ -24,22 +30,6 @@
 - 🌱 Learning **Rust** and **cloud-native development**
 - 🔨 Working on personal projects with **React + Go**
 - 📖 Exploring **DevOps** tools like Docker, Jenkins & Grafana
-
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/drianeperez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/DrianeDiojanPerez" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 
 ## 🛠️ Languages & Tools
 
