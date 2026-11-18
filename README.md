@@ -1,6 +1,8 @@
 <h1 align="center">Driane Diojan Perez</h1>
 
-<p align="center">Fullstack software engineer · Belize City, Belize</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Fullstack+Software+Engineer;Building+modern+web+apps;Passionate+about+UI+%2F+UX;Always+learning+something+new;TUI+enthusiast;Passionate+about+Backend+Development" alt="Fullstack Software Engineer" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DrianeDiojanPerez/DrianeDiojanPerez/refs/heads/main/dancing-gopher.gif" alt="dancing gopher" width="200"/>
@@ -15,7 +17,7 @@
 
 ## About
 
-I'm a fullstack software engineer working full-time in Belize, and I build terminal tools, CLI apps, and desktop software on the side.
+I'm a fullstack software engineer working full-time, and I build terminal tools, CLI apps, and desktop software on the side.
 
 I'm part self-taught and part formally trained. I work across the whole stack, from clean, minimal interfaces to fast backend APIs, and I care most about performance, simple design, and good developer tooling.
 
