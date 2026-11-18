@@ -19,22 +19,30 @@
   <img src="https://komarev.com/ghpvc/?username=drianediojanperez&label=Views&color=6C63FF&style=flat-square"/>
 </p>
 
-## 🙋‍♂️ About Me
+## About me
 
-I'm a **fullstack software engineer** in my early 20s from **Belize 🇧🇿**, working full-time and building things I care about. I got into coding because of a game or app that made me think *"how does this actually work?"* — and that curiosity has never stopped.
+I'm a **fullstack software engineer** in my early 20s from **Belize 🇧🇿**, working full-time and building my own tools on the side. I got into coding because a game or app made me wonder how it actually worked, and I still build things for that reason.
 
-I'm a mix of **self-taught and formally trained**, which means I've learned to pick things up fast and figure stuff out on my own, but also care about doing things properly. I love working across the whole stack — from polished, minimal UIs to performant backend APIs and everything in between.
+I'm part self-taught and part formally trained. I pick things up fast and figure them out on my own, but I care about doing them properly. I work across the whole stack, from small, clean UIs to fast backend APIs.
 
 - 🌍 Based in **Belize City, Belize**
-- 💼 Currently **employed full-time** as a software engineer
-- ⚡ I build with **React, React Native, TypeScript, Tailwind CSS, Go** — and falling deeper in love with **Rust 🦀** every day
-- 🖥️ Passionate about **TUI apps, CLI tools, desktop apps, web & mobile** — I enjoy the full spectrum of what you can build with code
-- 🎯 What drives me: **performance, beautiful minimal design, great developer tooling, and solving real problems from scratch**
-- 🌱 Currently exploring **Rust deeply**, **cloud-native development**, and **DevOps** — Docker, Jenkins & Grafana
-- 🤝 Open to collaborating on interesting **open source projects**
-- 📫 Reach me on **[Twitter / X](https://twitter.com/drianeperez)**, **[WhatsApp](https://wa.me/5016727351)**, or **[drianeperez12@gmail.com](mailto:drianeperez12@gmail.com)**
+- 💼 Software engineer, **full-time**
+- ⚡ I build with **React, React Native, TypeScript, Tailwind CSS, and Go**, and more and more with **Rust 🦀**
+- 🖥️ I like making **TUI apps, CLI tools, desktop apps, web, and mobile**
+- 🎯 I care about **speed, minimal design, good developer tools, and fixing real problems from scratch**
+- 🌱 Learning **Rust** in depth, **cloud-native development**, and **DevOps** with Docker, Jenkins, and Grafana
+- 🤝 Open to working on **open source projects** with others
+- 📫 Reach me on **[X](https://x.com/drianeperez)**, **[WhatsApp](https://wa.me/5016727351)**, or **[drianeperez12@gmail.com](mailto:drianeperez12@gmail.com)**
 
-## 🛠️ Languages & Tools
+## Projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| **[lazyssh](https://github.com/DrianeDiojanPerez/lazyssh)** | A terminal app for your SSH hosts. Reads and edits `~/.ssh/config`, shows which hosts are up, and opens each connection in its own tab. | Rust, ratatui |
+| **[helperpad](https://github.com/DrianeDiojanPerez/helperpad)** | Topaz signature pads in Chrome and Firefox on Linux, through the SigPlusExtLite extension. | Rust |
+| **[nvim](https://github.com/DrianeDiojanPerez/nvim)** | A small Neovim setup for servers, with one script to install it on a new machine. | Lua |
+
+## Languages and tools
 
 <div align="center">
 
@@ -48,15 +56,15 @@ I'm a mix of **self-taught and formally trained**, which means I've learned to p
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite,git,linux,grafana,jenkins&perline=8" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite,git,linux,neovim,grafana,jenkins&perline=9" />
 
 </div>
 
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drianediojanperez&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=drianediojanperez&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
 </p>
 
 <p align="center">
